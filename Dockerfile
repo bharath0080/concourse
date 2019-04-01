@@ -1,8 +1,7 @@
 FROM centos:7
 
 RUN yum update -y && \
-yum install -y wget && \
-yum install groovy -y && \
+yum install groovy -y
 
 
 # Set environment variables.
