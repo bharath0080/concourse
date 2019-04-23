@@ -1,2 +1,0 @@
-test
-Build  of job  for pipeline  ran successfully.
