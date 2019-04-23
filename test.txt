@@ -1,0 +1,2 @@
+test
+Build {{ BUILD_NAME }} of job {{ BUILD_JOB_NAME }} for pipeline {{ BUILD_PIPELINE_NAME }} ran successfully.
